@@ -2,6 +2,7 @@
 
 # Compiled output
 /dist
+/ga-testing
 /tmp
 /out-tsc
 /bazel-out
